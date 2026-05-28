@@ -1,0 +1,50 @@
+{
+    "Baofeng / Pofung": [
+        "UV-5R", "UV-5R+", "UV-5RA", "UV-5RE", "UV-5R EX", "UV-5RX3", "UV-5RM Plus", "UV-5RH", "UV-5RH Pro", "BF-F8HP", "BF-F9V2+", "GT-3TP", "UV-82", "UV-82HP", "UV-82C", "UV-82L", "UV-82X", "UV-9R", "UV-9R Plus", "UV-9G GMRS", "UV-13 PRO", "UV-16 Pro", "UV-17R", "UV-17R Plus", "UV-17 Pro GPS", "UV-21R", "UV-25 Tri-Power", "UV-32 GPS", "UV-S9 Plus", "BF-666S", "BF-777S", "BF-888S", "BF-s5 Plus", "GT-1", "GT-5R Pro", "DM-5R", "DM-1701 DMR", "DM-1801 DMR", "UV-B5", "UV-B6"
+    ],
+    "Yaesu / Vertex": [
+        "FT-4XR", "FT-4VR", "FT-25R", "FT-60R", "FT-60E", "FT-65R", "FT-70D", "FT-270R", "FT-277R", "VX-1R", "VX-2R", "VX-3R", "VX-5R", "VX-6R", "VX-7R", "VX-8R", "VX-8DR", "VX-8GR", "VX-330", "VX-170", "VR-160", "VR-500", "FT-90R", "FT-817", "FT-817ND", "FT-818ND", "FT-857", "FT-857D", "FT-897", "FT-897D", "FT-891", "FT-991", "FT-991A", "FT-710", "FTM-3100R", "FTM-3200D", "FTM-7250D", "FTM-6000R", "FTM-100DR", "FTM-200DR", "FTM-300DR", "FTM-400DR", "FTM-400XDR", "FTM-500DR", "FTM-350R", "FT-1500M", "FT-1802M", "FT-1900R", "FT-2600M", "FT-2800M", "FT-2900R", "FT-2980R", "FT-7100M", "FT-7800R", "FT-7900R", "FT-8800R", "FT-8900R", "FT-DX1200", "FT-DX3000"
+    ],
+    "Icom": [
+        "IC-V8", "IC-V80", "IC-V82", "IC-U82", "IC-V85", "IC-V86", "IC-T10", "IC-T70", "IC-T7H", "IC-T8A", "IC-T81A", "IC-T90A", "IC-Q7A", "IC-W32A", "IC-80AD", "ID-31A", "ID-31A Plus", "ID-51A", "ID-51A Plus", "ID-50A", "ID-52A", "IC-91A", "IC-91AD", "IC-92AD", "IC-208H", "IC-2100H", "IC-2200H", "IC-2300H", "IC-2720H", "IC-2730A", "IC-2820H", "ID-800H", "ID-880H", "ID-4100A", "ID-5100A", "IC-V8000", "ID-RP2000V", "ID-RP4000V", "ID-RP2V", "ID-RP2D", "IC-703", "IC-706MKIIG", "IC-7000", "IC-7100", "IC-7200", "IC-7300", "IC-746", "IC-7410", "IC-9100", "IC-9700", "IC-705", "IC-R2", "IC-R5", "IC-R6", "IC-R10", "IC-R20"
+    ],
+    "Kenwood": [
+        "TH-22AT", "TH-42AT", "TH-79A", "TH-D7A", "TH-D7A(G)", "TH-D72A", "TH-D74A", "TH-D75A", "TH-F6A", "TH-F7E", "TH-G71A", "TH-K2", "TH-K20A", "TM-271A", "TM-281A", "TM-471A", "TM-D700", "TM-D710", "TM-D710G", "TM-G707A", "TM-V7A", "TM-V71A", "TS-480SAT", "TS-480HX", "TS-590S", "TS-590SG", "TS-2000", "TK-260", "TK-270", "TK-360", "TK-370", "TK-760", "TK-762", "TK-860", "TK-862", "TK-2102", "TK-3102", "TK-7102", "TK-8102", "TK-7108", "TK-8108", "TK-7180", "TK-8180", "TK-7302", "TK-8302"
+    ],
+    "Quansheng": [
+        "UV-K5", "UV-K6", "UV-K5(8)", "UV-5R Plus (QS Edition)", "TG-UV2", "TG-UV2 Plus", "UV-R50", "TG-45UV", "TG-K4AT", "TG-6A"
+    ],
+    "AnyTone": [
+        "AT-D868UV", "AT-D878UV", "AT-D878UVG", "AT-D878UVII", "AT-D878UVII Plus", "AT-D578UV", "AT-D578UVPRO", "AT-D578UVIII", "AT-5888UV", "AT-778UV", "AT-5555N", "AT-5555N II", "AT-398UV", "AT-518UV", "AT-588", "AT-3208", "AT-3318UV-A", "AT-3318UV-C", "AT-3318UV-D", "AT-3318UV-E", "AT-5189"
+    ],
+    "Wouxun": [
+        "KG-UVD1P", "KG-UV2D", "KG-UV3D", "KG-UV5D", "KG-UV6D", "KG-UV6X", "KG-UV7D", "KG-UV8D", "KG-UV8D Plus", "KG-UV8E", "KG-UV899", "KG-UV9D", "KG-UV9D Plus", "KG-UV9P", "KG-UV9E", "KG-UV9G", "KG-UV9D Mate", "KG-UV8H", "KG-935G", "KG-935G Plus", "KG-XS20G", "KG-1000G", "KG-1000G Plus", "KG-UV920P", "KG-UV950P"
+    ],
+    "TYT / Tytera": [
+        "TH-UV3R", "TH-UV6R", "TH-UV8R", "TH-UV88", "TH-UV98", "TH-UVF1", "TH-UVF9", "TH-UVF9D", "TH-UVF8000D", "TH-350 Tri-Band", "TH-7800", "TH-9000D", "TH-9800 Quad-Band", "MD-280", "MD-380", "MD-390", "MD-680", "MD-2017", "MD-UV380", "MD-UV390", "MD-9600"
+    ],
+    "Retevis": [
+        "H777", "H777 Plus", "H777D", "RA685", "RA85", "RB15", "RB17", "RB17A", "RB17P", "RB17V", "RB18", "RB19", "RB19P", "RB23", "RB26", "RB27", "RB27B", "RB27V", "RB615", "RB617", "RB618", "RB619", "RB627B", "RB75", "RB85", "RT1", "RT5", "RT6", "RT16", "RT19", "RT21", "RT22", "RT22FRS", "RT22S", "RT23", "RT26", "RT29_UHF", "RT29_VHF", "RT40B", "RT47", "RT47V", "RT619", "RT622", "RT647", "RT668", "RT68", "RT76", "RT76P", "RT85", "RT87", "RT95", "RT98", "RT73 DMR", "RT90 DMR", "RT9000D"
+    ],
+    "Radtel / Recent": [
+        "RT-10", "T18", "RT-420", "RT-470", "RT-470X", "RT-470L", "RT-490", "RT-495", "RT-590", "RT-600", "RT-610", "RT-630", "RT-730", "RT-850", "RT-860", "RT-890", "RT-900", "RT-910", "RT-920", "RT-950", "RS-918"
+    ],
+    "Tidradio": [
+        "TD-H3", "H3 Wireless", "TD-H5", "TD-H6", "TD-H8", "H8 Rugged", "TD-F6", "TD-M8", "TD-UV5R Pro", "TD-V2", "TD-66"
+    ],
+    "BTech": [
+        "UV-5X3", "F8HP", "GMRS-V1", "GMRS-V2", "MURS-V1", "MURS-V2", "GMRS-PRO", "UV-25X2", "UV-25X4", "UV-50X2"
+    ],
+    "Alinco": [
+        "DJ-100", "DJ-175", "DJ-500", "DJ-A10", "DJ-A40", "DJ-G7", "DJ-G29", "DJ-MD5", "DJ-MD5T", "DJ-V17", "DJ-V27", "DJ-V47", "DJ-V57", "DJ-VX50", "DR-03", "DR-06", "DR-135T", "DR-138", "DR-235T", "DR-435T", "DR-635T", "DR-638", "DR-MD500", "DX-SR8"
+    ],
+    "Puxing": [
+        "PX-2R", "PX-777", "PX-777 Plus", "PX-888", "PX-888K", "PX-UV973"
+    ],
+    "Talkpod / Rugged": [
+        "A36Plus", "A36Plus GMRS", "N59", "A31", "GMR2", "GMR25", "GMR45", "V3", "RH5R", "ABM25"
+    ],
+    "Jetstream / Leixen": [
+        "JT220M", "JT270M", "JT440M", "VV-898", "VV-898S", "VV-898P", "VV-898SP"
+    ]
+}
